@@ -1,1 +1,7 @@
+A traditional and straightforward hand game called "Rock, Paper, Scissors" is frequently used to settle disputes between two players.
+A simple version of this game may be easily made in Python.
+The software then chooses the winner based on a set of rules: rock beats scissors, scissors beat paper, and paper beats rock.
+Typically, players pick one of the three options—rock, paper, or scissors. 
 
+Python may be used to implement this game by receiving human input, giving the computer a random pick, comparing the results, and announcing the winner.
+Learning about user input, conditional statements, and random number generation in programming is made enjoyable and informative by doing this.
